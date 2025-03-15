@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vincenzo1109
 - 👀 I’m interested in play basketball 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me per Mail (vincenzo.bienert@dfgh.net)
 
 <!---
