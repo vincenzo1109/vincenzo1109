@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vincenzo1109
-- 👀 I’m interested in play basketball 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Vincent
+- 👀 I’m interested in programming and sports. 
+- 🌱 I’m currently learning at the Johanes-Kepler-Gymnasium
 - 📫 How to reach me per Mail (vincenzo.bienert@dfgh.net)
 
 <!---
